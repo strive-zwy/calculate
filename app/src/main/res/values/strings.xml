@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calculate</string>
+    <string name="edit_text">0123456789＋－×÷＝.</string>
+</resources>
